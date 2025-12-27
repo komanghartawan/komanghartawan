@@ -1,16 +1,15 @@
-## Hi there 👋
+# Komang Hartawan
 
-<!--
-**komanghartawan/komanghartawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support (Network-focused). I build evidence-based labs and runbooks focused on enterprise support fundamentals.
 
-Here are some ideas to get you started:
+## Portfolio
+- ORION Enterprise Support Lab Portfolio: https://github.com/komanghartawan/orion-enterprise-support-lab-portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Windows Server, Active Directory (AD DS)
+- DNS, DHCP
+- Windows 11 endpoint support
+- Troubleshooting, documentation, and validation evidence
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/komanghartawan/
