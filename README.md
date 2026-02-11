@@ -11,7 +11,7 @@ Network-focused IT Support. I build evidence-first labs and runbooks aligned wit
 
 - Windows Server: Active Directory Domain Services, DNS, DHCP
 - Windows 11 endpoint support and troubleshooting fundamentals
-- MikroTik RouterOS: addressing, NAT, firewall, routing basics
+- MikroTik RouterOS: addressing, NAT, firewall, routing
 - Evidence-based documentation: runbooks, diagrams, validation captures
 
 ## Contact
